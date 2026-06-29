@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>声波漫游指南</title>
+    <title>声波漫游指南 · 《非洲的青山》</title>
     <link>https://luxuguang-leo/ebook-podcast</link>
     <language>zh-cn</language>
     <description>用声音带你漫游书中的世界。第一季：海明威《非洲的青山》。</description>
     <itunes:author>Leo</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/cover.png"/>
-    <lastBuildDate>Mon, 29 Jun 2026 09:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:08:38 +0000</lastBuildDate>
     <item>
-      <title>S1E1 盐沼地的狩猎</title>
+      <title>S1E1《非洲的青山》盐沼地的狩猎</title>
       <itunes:title>S1E1 盐沼地的狩猎</itunes:title>
       <description>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。卡车的轰鸣惊散了野兽，夜幕降临前，一场关于耐心与尊严的较量在暮色中展开。</description>
       <itunes:summary>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。卡车的轰鸣惊散了野兽，夜幕降临前，一场关于耐心与尊严的较量在暮色中展开。</itunes:summary>
@@ -21,7 +21,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E01_盐沼地的狩猎.mp3" type="audio/mpeg" length="8910000"/>
     </item>
     <item>
-      <title>S1E2 营火边的对话</title>
+      <title>S1E2《非洲的青山》营火边的对话</title>
       <itunes:title>S1E2 营火边的对话</itunes:title>
       <description>营火旁，有人聊起书籍、欧洲和非洲的土著人，起身跳舞唱歌。海明威听着，记着，将非洲白人的孤独与痴迷收进笔记。</description>
       <itunes:summary>营火旁，有人聊起书籍、欧洲和非洲的土著人，起身跳舞唱歌。海明威听着，记着，将非洲白人的孤独与痴迷收进笔记。</itunes:summary>
@@ -32,7 +32,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E02_营火边的对话.mp3" type="audio/mpeg" length="6680448"/>
     </item>
     <item>
-      <title>S1E3 狩猎的哲学</title>
+      <title>S1E3《非洲的青山》狩猎的哲学</title>
       <itunes:title>S1E3 狩猎的哲学</itunes:title>
       <description>一位奥地利人在非洲失去了一切，却说他比在欧洲拥有更多。关于为何而来、为何留下，关于这片土地如何改变一个人的全部认知。</description>
       <itunes:summary>一位奥地利人在非洲失去了一切，却说他比在欧洲拥有更多。关于为何而来、为何留下，关于这片土地如何改变一个人的全部认知。</itunes:summary>
@@ -43,7 +43,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E03_狩猎的哲学.mp3" type="audio/mpeg" length="11193696"/>
     </item>
     <item>
-      <title>S1E4 回忆追猎开始</title>
+      <title>S1E4《非洲的青山》回忆追猎开始</title>
       <itunes:title>S1E4 回忆追猎开始</itunes:title>
       <description>时间倒回内罗毕病愈之后。海明威与挂眼皮——眼皮垂下来盖住眼睛的野蛮人猎手——在密林中徒步追踪犀牛。</description>
       <itunes:summary>时间倒回内罗毕病愈之后。海明威与挂眼皮——眼皮垂下来盖住眼睛的野蛮人猎手——在密林中徒步追踪犀牛。</itunes:summary>
@@ -54,7 +54,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E04_回忆追猎开始.mp3" type="audio/mpeg" length="10322064"/>
     </item>
     <item>
-      <title>S1E5 追踪犀牛</title>
+      <title>S1E5《非洲的青山》追踪犀牛</title>
       <itunes:title>S1E5 追踪犀牛</itunes:title>
       <description>犀牛在密林深处时隐时现。海明威的枪法被考验，猎手之间的信任在沉默中建立。每一步都可能是最后一步。</description>
       <itunes:summary>犀牛在密林深处时隐时现。海明威的枪法被考验，猎手之间的信任在沉默中建立。每一步都可能是最后一步。</itunes:summary>
@@ -65,7 +65,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E05_追踪犀牛.mp3" type="audio/mpeg" length="8522640"/>
     </item>
     <item>
-      <title>S1E6 猎狮惊魂</title>
+      <title>S1E6《非洲的青山》猎狮惊魂</title>
       <itunes:title>S1E6 猎狮惊魂</itunes:title>
       <description>那一枪打得有多糟糕，绝不能让他知道。狮子的身影、瞄准镜里的犹豫——猎狮不仅是技术，更是尊严的游戏。</description>
       <itunes:summary>那一枪打得有多糟糕，绝不能让他知道。狮子的身影、瞄准镜里的犹豫——猎狮不仅是技术，更是尊严的游戏。</itunes:summary>
@@ -76,7 +76,7 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E06_猎狮惊魂.mp3" type="audio/mpeg" length="5955984"/>
     </item>
     <item>
-      <title>S1E7 水牛之战</title>
+      <title>S1E7《非洲的青山》水牛之战</title>
       <itunes:title>S1E7 水牛之战</itunes:title>
       <description>挂眼皮带路，来到一片剥了树皮的舌蝇区。红土枯树陡峭山脊——水牛就在峡谷对面，没有退路。</description>
       <itunes:summary>挂眼皮带路，来到一片剥了树皮的舌蝇区。红土枯树陡峭山脊——水牛就在峡谷对面，没有退路。</itunes:summary>

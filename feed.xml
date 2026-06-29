@@ -4,11 +4,11 @@
     <title>声波漫游指南</title>
     <link>https://luxuguang-leo/ebook-podcast</link>
     <language>zh-cn</language>
-    <description>用声音带你漫游书中的世界。第一季带你走进海明威的非洲——关于追踪与等待、猎手的尊严，以及这片原始大陆如何改变一个人的全部感知。</description>
+    <description>用声音带你漫游书中的世界。第一季带你走进海明威的非洲。第二季：海明威《乞力马扎罗的雪》—— 一个作家在非洲等待死亡时的回忆与幻觉。——关于追踪与等待、猎手的尊严，以及这片原始大陆如何改变一个人的全部感知。</description>
     <itunes:author>Leo</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/cover.png"/>
-    <lastBuildDate>Mon, 29 Jun 2026 09:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:05:57 +0000</lastBuildDate>
     <item>
       <title>S1.1 非洲的青山 — 盐沼地的狩猎</title>
       <itunes:title>S1.1 非洲的青山 — 盐沼地的狩猎</itunes:title>
@@ -85,6 +85,50 @@
       <itunes:episode>7</itunes:episode>
       <pubDate>Sun, 28 Jun 2026 09:04:23 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E07_水牛之战.mp3" type="audio/mpeg" length="7633008"/>
+    </item>
+    <item>
+      <title>S2.1 乞力马扎罗的雪 — 乞力马扎罗的传说</title>
+      <itunes:title>S2.1 乞力马扎罗的雪 — 乞力马扎罗的传说</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S2E01_乞力马扎罗的传说.mp3" type="audio/mpeg" length="8900000"/>
+      <itunes:duration>10:00</itunes:duration>
+      <description>海明威短篇小说《乞力马扎罗的雪》—— 乞力马扎罗的传说。关于一个作家在非洲等待死亡的故事。</description>
+      <itunes:summary>乞力马扎罗的传说</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>S2.2 乞力马扎罗的雪 — 深山回忆</title>
+      <itunes:title>S2.2 乞力马扎罗的雪 — 深山回忆</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S2E02_深山回忆.mp3" type="audio/mpeg" length="15000000"/>
+      <itunes:duration>16:00</itunes:duration>
+      <description>海明威短篇小说《乞力马扎罗的雪》—— 深山回忆。记忆中的山间圣诞节与逃兵。</description>
+      <itunes:summary>深山回忆</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>S2.3 乞力马扎罗的雪 — 巴黎的暗影</title>
+      <itunes:title>S2.3 乞力马扎罗的雪 — 巴黎的暗影</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S2E03_巴黎的暗影.mp3" type="audio/mpeg" length="19000000"/>
+      <itunes:duration>20:00</itunes:duration>
+      <description>海明威短篇小说《乞力马扎罗的雪》—— 巴黎的暗影。巴黎的旧日时光与背叛。</description>
+      <itunes:summary>巴黎的暗影</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>S2.4 乞力马扎罗的雪 — 飞向雪顶</title>
+      <itunes:title>S2.4 乞力马扎罗的雪 — 飞向雪顶</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S2E04_飞向雪顶.mp3" type="audio/mpeg" length="16000000"/>
+      <itunes:duration>17:00</itunes:duration>
+      <description>海明威短篇小说《乞力马扎罗的雪》—— 飞向雪顶。最后的飞行，飞向乞力马扎罗的雪顶。</description>
+      <itunes:summary>飞向雪顶</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:05:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

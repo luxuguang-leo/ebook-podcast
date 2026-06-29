@@ -4,11 +4,11 @@
     <title>声波漫游指南</title>
     <link>https://luxuguang-leo/ebook-podcast</link>
     <language>zh-cn</language>
-    <description>用声音带你漫游书中的世界。第一季带你走进海明威的非洲。第二季：海明威《乞力马扎罗的雪》—— 一个作家在非洲等待死亡时的回忆与幻觉。——关于追踪与等待、猎手的尊严，以及这片原始大陆如何改变一个人的全部感知。</description>
+    <description>用声音带你漫游书中的世界。第一季带你走进海明威的非洲。第二季：海明威《乞力马扎罗的雪》。第三季：海明威非洲短篇集——《弗朗西斯·麦康伯短促的幸福生活》和《一个非洲故事》。—— 一个作家在非洲等待死亡时的回忆与幻觉。——关于追踪与等待、猎手的尊严，以及这片原始大陆如何改变一个人的全部感知。</description>
     <itunes:author>Leo</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/cover.png"/>
-    <lastBuildDate>Mon, 29 Jun 2026 10:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:30:46 +0000</lastBuildDate>
     <item>
       <title>S1.1 非洲的青山.盐沼地的狩猎</title>
       <itunes:title>S1.1 非洲的青山.盐沼地的狩猎</itunes:title>
@@ -129,6 +129,50 @@
       <description>海明威短篇小说《乞力马扎罗的雪》—— 飞向雪顶。最后的飞行，飞向乞力马扎罗的雪顶。</description>
       <itunes:summary>飞向雪顶</itunes:summary>
       <pubDate>Mon, 29 Jun 2026 10:05:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3.1 海明威短篇集.麦康伯的幸福生活·上</title>
+      <itunes:title>S3.1 海明威短篇集.麦康伯的幸福生活·上</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S3E01_麦康伯的幸福生活·上.mp3" type="audio/mpeg" length="26000000"/>
+      <itunes:duration>28:00</itunes:duration>
+      <description>海明威非洲短篇集——麦康伯的幸福生活·上。</description>
+      <itunes:summary>麦康伯的幸福生活·上</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3.2 海明威短篇集.麦康伯的幸福生活·中</title>
+      <itunes:title>S3.2 海明威短篇集.麦康伯的幸福生活·中</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S3E02_麦康伯的幸福生活·中.mp3" type="audio/mpeg" length="26000000"/>
+      <itunes:duration>28:00</itunes:duration>
+      <description>海明威非洲短篇集——麦康伯的幸福生活·中。</description>
+      <itunes:summary>麦康伯的幸福生活·中</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3.3 海明威短篇集.麦康伯的幸福生活·下</title>
+      <itunes:title>S3.3 海明威短篇集.麦康伯的幸福生活·下</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S3E03_麦康伯的幸福生活·下.mp3" type="audio/mpeg" length="24000000"/>
+      <itunes:duration>26:00</itunes:duration>
+      <description>海明威非洲短篇集——麦康伯的幸福生活·下。</description>
+      <itunes:summary>麦康伯的幸福生活·下</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>S3.4 海明威短篇集.一个非洲故事</title>
+      <itunes:title>S3.4 海明威短篇集.一个非洲故事</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S3E04_一个非洲故事.mp3" type="audio/mpeg" length="33000000"/>
+      <itunes:duration>35:00</itunes:duration>
+      <description>海明威非洲短篇集——一个非洲故事。</description>
+      <itunes:summary>一个非洲故事</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 10:30:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

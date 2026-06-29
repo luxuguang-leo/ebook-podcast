@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>声波漫游指南 · 《非洲的青山》</title>
+    <title>声波漫游指南</title>
     <link>https://luxuguang-leo/ebook-podcast</link>
     <language>zh-cn</language>
-    <description>用声音带你漫游书中的世界。第一季：海明威《非洲的青山》。</description>
+    <description>用声音带你漫游书中的世界。第一季带你走进海明威的非洲——关于追踪与等待、猎手的尊严，以及这片原始大陆如何改变一个人的全部感知。</description>
     <itunes:author>Leo</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/cover.png"/>
-    <lastBuildDate>Mon, 29 Jun 2026 09:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 09:10:49 +0000</lastBuildDate>
     <item>
       <title>S1E1《非洲的青山》盐沼地的狩猎</title>
       <itunes:title>S1E1 盐沼地的狩猎</itunes:title>

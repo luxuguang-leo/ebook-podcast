@@ -13,7 +13,7 @@
     <itunes:author>Leo</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/cover.png"/>
-    <lastBuildDate>Tue, 30 Jun 2026 06:22:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:23:22 +0000</lastBuildDate>
     <item>
       <title>S1.1 非洲的青山.盐沼地的狩猎</title>
       <itunes:title>S1.1 非洲的青山.盐沼地的狩猎</itunes:title>
@@ -367,15 +367,15 @@
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E10_Camp_Fires_Part_10_jenny.mp3" type="audio/mpeg" length="14692752"/>
     </item>
 <item>
-      <title>S5.1 In Africa: Hunting Adventures. The Voyage</title>
-      <itunes:title>S5.1 In Africa: Hunting Adventures. The Voyage</itunes:title>
-      <description>The Voyage - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Voyage - from In Africa: Hunting Adventures.</itunes:summary>
-      <itunes:duration>37:00</itunes:duration>
+      <title>S1E1 盐沼地的狩猎</title>
+      <itunes:title>S1E1 盐沼地的狩猎</itunes:title>
+      <description>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。</description>
+      <itunes:summary>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。</itunes:summary>
+      <itunes:duration>25:00</itunes:duration>
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <pubDate>Mon, 22 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E01_Hunting_Part_1_jenny.mp3" type="audio/mpeg" length="13674672"/>
+      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E01_盐沼地的狩猎.mp3" type="audio/mpeg" length="8910000"/>
     </item>
     <item>
       <title>S1E2 营火边的对话</title>
@@ -568,7 +568,7 @@
       <title>S5.2 In Africa: Hunting Adventures. Games on Deck</title>
       <itunes:title>S5.2 In Africa: Hunting Adventures. Games on Deck</itunes:title>
       <description>Games on Deck - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Games on Deck - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>Games on Deck - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>36:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.2</itunes:episode>
@@ -579,7 +579,7 @@
       <title>S5.3 In Africa: Hunting Adventures. The Tsetse Fly</title>
       <itunes:title>S5.3 In Africa: Hunting Adventures. The Tsetse Fly</itunes:title>
       <description>The Tsetse Fly - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Tsetse Fly - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>The Tsetse Fly - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.3</itunes:episode>
@@ -590,7 +590,7 @@
       <title>S5.4 In Africa: Hunting Adventures. A Hunter's Lunch</title>
       <itunes:title>S5.4 In Africa: Hunting Adventures. A Hunter's Lunch</itunes:title>
       <description>A Hunter's Lunch - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>A Hunter's Lunch - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>A Hunter's Lunch - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.4</itunes:episode>
@@ -601,7 +601,7 @@
       <title>S5.5 In Africa: Hunting Adventures. Following Three Lions</title>
       <itunes:title>S5.5 In Africa: Hunting Adventures. Following Three Lions</itunes:title>
       <description>Following Three Lions - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Following Three Lions - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>Following Three Lions - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.5</itunes:episode>
@@ -612,7 +612,7 @@
       <title>S5.6 In Africa: Hunting Adventures. Cold at the Equator</title>
       <itunes:title>S5.6 In Africa: Hunting Adventures. Cold at the Equator</itunes:title>
       <description>Cold at the Equator - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Cold at the Equator - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>Cold at the Equator - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.6</itunes:episode>
@@ -623,7 +623,7 @@
       <title>S5.7 In Africa: Hunting Adventures. Whisky and Stories</title>
       <itunes:title>S5.7 In Africa: Hunting Adventures. Whisky and Stories</itunes:title>
       <description>Whisky and Stories - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Whisky and Stories - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>Whisky and Stories - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.7</itunes:episode>
@@ -634,7 +634,7 @@
       <title>S5.8 In Africa: Hunting Adventures. Following the Trail</title>
       <itunes:title>S5.8 In Africa: Hunting Adventures. Following the Trail</itunes:title>
       <description>Following the Trail - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Following the Trail - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>Following the Trail - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>34:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.8</itunes:episode>
@@ -645,7 +645,7 @@
       <title>S5.9 In Africa: Hunting Adventures. The Good Bull</title>
       <itunes:title>S5.9 In Africa: Hunting Adventures. The Good Bull</itunes:title>
       <description>The Good Bull - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Good Bull - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>The Good Bull - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.9</itunes:episode>
@@ -656,7 +656,7 @@
       <title>S5.10 In Africa: Hunting Adventures. The Little Dog</title>
       <itunes:title>S5.10 In Africa: Hunting Adventures. The Little Dog</itunes:title>
       <description>The Little Dog - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Little Dog - from In Africa: Hunting Adventures.</itunes:summary>
+      <itunes:summary>The Little Dog - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.10</itunes:episode>

@@ -13,7 +13,7 @@
     <itunes:author>Leo</itunes:author>
     <itunes:category text="Arts"/>
     <itunes:image href="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/cover.png"/>
-    <lastBuildDate>Tue, 30 Jun 2026 06:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 06:23:59 +0000</lastBuildDate>
     <item>
       <title>S1.1 非洲的青山.盐沼地的狩猎</title>
       <itunes:title>S1.1 非洲的青山.盐沼地的狩猎</itunes:title>
@@ -179,275 +179,11 @@
       <itunes:summary>一个非洲故事</itunes:summary>
       <pubDate>Mon, 29 Jun 2026 10:30:46 +0000</pubDate>
     </item>
-<item>
-      <title>S1E1 盐沼地的狩猎</title>
-      <itunes:title>S1E1 盐沼地的狩猎</itunes:title>
-      <description>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。</description>
-      <itunes:summary>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。</itunes:summary>
-      <itunes:duration>25:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <pubDate>Mon, 22 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E01_盐沼地的狩猎.mp3" type="audio/mpeg" length="8910000"/>
-    </item>
-    <item>
-      <title>S1E2 营火边的对话</title>
-      <itunes:title>S1E2 营火边的对话</itunes:title>
-      <description>营火旁，有人聊起书籍、欧洲和非洲的土著人。</description>
-      <itunes:summary>营火旁，有人聊起书籍、欧洲和非洲的土著人。</itunes:summary>
-      <itunes:duration>18:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <pubDate>Tue, 23 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E02_营火边的对话.mp3" type="audio/mpeg" length="6680448"/>
-    </item>
-    <item>
-      <title>S1E3 狩猎的哲学</title>
-      <itunes:title>S1E3 狩猎的哲学</itunes:title>
-      <description>一位奥地利人在非洲失去了一切，却说他比在欧洲拥有更多。</description>
-      <itunes:summary>一位奥地利人在非洲失去了一切，却说他比在欧洲拥有更多。</itunes:summary>
-      <itunes:duration>31:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <pubDate>Wed, 24 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E03_狩猎的哲学.mp3" type="audio/mpeg" length="11193696"/>
-    </item>
-    <item>
-      <title>S1E4 回忆追猎开始</title>
-      <itunes:title>S1E4 回忆追猎开始</itunes:title>
-      <description>时间倒回内罗毕病愈之后。海明威在密林中徒步追踪犀牛。</description>
-      <itunes:summary>时间倒回内罗毕病愈之后。海明威在密林中徒步追踪犀牛。</itunes:summary>
-      <itunes:duration>30:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <pubDate>Thu, 25 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E04_回忆追猎开始.mp3" type="audio/mpeg" length="10322064"/>
-    </item>
-    <item>
-      <title>S1E5 追踪犀牛</title>
-      <itunes:title>S1E5 追踪犀牛</itunes:title>
-      <description>犀牛在密林深处时隐时现。海明威的枪法被考验。</description>
-      <itunes:summary>犀牛在密林深处时隐时现。海明威的枪法被考验。</itunes:summary>
-      <itunes:duration>24:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <pubDate>Fri, 26 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E05_追踪犀牛.mp3" type="audio/mpeg" length="8522640"/>
-    </item>
-    <item>
-      <title>S1E6 猎狮惊魂</title>
-      <itunes:title>S1E6 猎狮惊魂</itunes:title>
-      <description>那一枪打得有多糟糕，绝不能让他知道。</description>
-      <itunes:summary>那一枪打得有多糟糕，绝不能让他知道。</itunes:summary>
-      <itunes:duration>17:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <pubDate>Sat, 27 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E06_猎狮惊魂.mp3" type="audio/mpeg" length="5955984"/>
-    </item>
-    <item>
-      <title>S1E7 水牛之战</title>
-      <itunes:title>S1E7 水牛之战</itunes:title>
-      <description>红土枯树陡峭山脊——水牛就在峡谷对面，没有退路。</description>
-      <itunes:summary>红土枯树陡峭山脊——水牛就在峡谷对面，没有退路。</itunes:summary>
-      <itunes:duration>22:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <pubDate>Sun, 28 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E07_水牛之战.mp3" type="audio/mpeg" length="7633008"/>
-    </item>
     <item>
       <title>S4.1 African Camp Fires. The First Camp</title>
       <itunes:title>S4.1 African Camp Fires. The First Camp</itunes:title>
       <description>The First Camp - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>The First Camp - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>37:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.1</itunes:episode>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E01_Camp_Fires_Part_1_jenny.mp3" type="audio/mpeg" length="13344768"/>
-    </item>
-<item>
-      <title>S4.2 African Camp Fires. Into the Wild</title>
-      <itunes:title>S4.2 African Camp Fires. Into the Wild</itunes:title>
-      <description>Into the Wild - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Into the Wild - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>35:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.2</itunes:episode>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E02_Camp_Fires_Part_2_jenny.mp3" type="audio/mpeg" length="12880944"/>
-    </item>
-<item>
-      <title>S4.3 African Camp Fires. Hunting the Plains</title>
-      <itunes:title>S4.3 African Camp Fires. Hunting the Plains</itunes:title>
-      <description>Hunting the Plains - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Hunting the Plains - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>38:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.3</itunes:episode>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E03_Camp_Fires_Part_3_jenny.mp3" type="audio/mpeg" length="13810896"/>
-    </item>
-<item>
-      <title>S4.4 African Camp Fires. Lion at Dawn</title>
-      <itunes:title>S4.4 African Camp Fires. Lion at Dawn</itunes:title>
-      <description>Lion at Dawn - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Lion at Dawn - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>40:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.4</itunes:episode>
-      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E04_Camp_Fires_Part_4_jenny.mp3" type="audio/mpeg" length="14610672"/>
-    </item>
-<item>
-      <title>S4.5 African Camp Fires. The Big Game</title>
-      <itunes:title>S4.5 African Camp Fires. The Big Game</itunes:title>
-      <description>The Big Game - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>The Big Game - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>41:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.5</itunes:episode>
-      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E05_Camp_Fires_Part_5_jenny.mp3" type="audio/mpeg" length="14762304"/>
-    </item>
-<item>
-      <title>S4.6 African Camp Fires. Waterhole Watch</title>
-      <itunes:title>S4.6 African Camp Fires. Waterhole Watch</itunes:title>
-      <description>Waterhole Watch - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Waterhole Watch - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>39:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.6</itunes:episode>
-      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E06_Camp_Fires_Part_6_jenny.mp3" type="audio/mpeg" length="14272416"/>
-    </item>
-<item>
-      <title>S4.7 African Camp Fires. Safari by Night</title>
-      <itunes:title>S4.7 African Camp Fires. Safari by Night</itunes:title>
-      <description>Safari by Night - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Safari by Night - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>33:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.7</itunes:episode>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E07_At the Waterhole_jenny.mp3" type="audio/mpeg" length="12027600"/>
-    </item>
-<item>
-      <title>S4.8 African Camp Fires. Distant Hills</title>
-      <itunes:title>S4.8 African Camp Fires. Distant Hills</itunes:title>
-      <description>Distant Hills - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Distant Hills - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>30:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.8</itunes:episode>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E08_Camp_Fires_Part_8_jenny.mp3" type="audio/mpeg" length="10950192"/>
-    </item>
-<item>
-      <title>S4.9 African Camp Fires. Campfire Stories</title>
-      <itunes:title>S4.9 African Camp Fires. Campfire Stories</itunes:title>
-      <description>Campfire Stories - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Campfire Stories - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>38:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.9</itunes:episode>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E09_Camp_Fires_Part_9_jenny.mp3" type="audio/mpeg" length="13816440"/>
-    </item>
-<item>
-      <title>S4.10 African Camp Fires. Last Campfires</title>
-      <itunes:title>S4.10 African Camp Fires. Last Campfires</itunes:title>
-      <description>Last Campfires - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Last Campfires - from African Camp Fires, read by Jenny.</itunes:summary>
-      <itunes:duration>40:00</itunes:duration>
-      <itunes:season>4</itunes:season>
-      <itunes:episode>4.10</itunes:episode>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S4E10_Camp_Fires_Part_10_jenny.mp3" type="audio/mpeg" length="14692752"/>
-    </item>
-<item>
-      <title>S1E1 盐沼地的狩猎</title>
-      <itunes:title>S1E1 盐沼地的狩猎</itunes:title>
-      <description>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。</description>
-      <itunes:summary>盐沼地边的掩体里，海明威与猎手姆克拉等待猎物出现。</itunes:summary>
-      <itunes:duration>25:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>1</itunes:episode>
-      <pubDate>Mon, 22 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E01_盐沼地的狩猎.mp3" type="audio/mpeg" length="8910000"/>
-    </item>
-    <item>
-      <title>S1E2 营火边的对话</title>
-      <itunes:title>S1E2 营火边的对话</itunes:title>
-      <description>营火旁，有人聊起书籍、欧洲和非洲的土著人。</description>
-      <itunes:summary>营火旁，有人聊起书籍、欧洲和非洲的土著人。</itunes:summary>
-      <itunes:duration>18:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>2</itunes:episode>
-      <pubDate>Tue, 23 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E02_营火边的对话.mp3" type="audio/mpeg" length="6680448"/>
-    </item>
-    <item>
-      <title>S1E3 狩猎的哲学</title>
-      <itunes:title>S1E3 狩猎的哲学</itunes:title>
-      <description>一位奥地利人在非洲失去了一切，却说他比在欧洲拥有更多。</description>
-      <itunes:summary>一位奥地利人在非洲失去了一切，却说他比在欧洲拥有更多。</itunes:summary>
-      <itunes:duration>31:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>3</itunes:episode>
-      <pubDate>Wed, 24 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E03_狩猎的哲学.mp3" type="audio/mpeg" length="11193696"/>
-    </item>
-    <item>
-      <title>S1E4 回忆追猎开始</title>
-      <itunes:title>S1E4 回忆追猎开始</itunes:title>
-      <description>时间倒回内罗毕病愈之后。海明威在密林中徒步追踪犀牛。</description>
-      <itunes:summary>时间倒回内罗毕病愈之后。海明威在密林中徒步追踪犀牛。</itunes:summary>
-      <itunes:duration>30:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>4</itunes:episode>
-      <pubDate>Thu, 25 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E04_回忆追猎开始.mp3" type="audio/mpeg" length="10322064"/>
-    </item>
-    <item>
-      <title>S1E5 追踪犀牛</title>
-      <itunes:title>S1E5 追踪犀牛</itunes:title>
-      <description>犀牛在密林深处时隐时现。海明威的枪法被考验。</description>
-      <itunes:summary>犀牛在密林深处时隐时现。海明威的枪法被考验。</itunes:summary>
-      <itunes:duration>24:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>5</itunes:episode>
-      <pubDate>Fri, 26 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E05_追踪犀牛.mp3" type="audio/mpeg" length="8522640"/>
-    </item>
-    <item>
-      <title>S1E6 猎狮惊魂</title>
-      <itunes:title>S1E6 猎狮惊魂</itunes:title>
-      <description>那一枪打得有多糟糕，绝不能让他知道。</description>
-      <itunes:summary>那一枪打得有多糟糕，绝不能让他知道。</itunes:summary>
-      <itunes:duration>17:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>6</itunes:episode>
-      <pubDate>Sat, 27 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E06_猎狮惊魂.mp3" type="audio/mpeg" length="5955984"/>
-    </item>
-    <item>
-      <title>S1E7 水牛之战</title>
-      <itunes:title>S1E7 水牛之战</itunes:title>
-      <description>红土枯树陡峭山脊——水牛就在峡谷对面，没有退路。</description>
-      <itunes:summary>红土枯树陡峭山脊——水牛就在峡谷对面，没有退路。</itunes:summary>
-      <itunes:duration>22:00</itunes:duration>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <pubDate>Sun, 28 Jun 2026 09:04:23 +0000</pubDate>
-      <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S1E07_水牛之战.mp3" type="audio/mpeg" length="7633008"/>
-    </item>
-    <item>
-      <title>S4.1 African Camp Fires. The First Camp</title>
-      <itunes:title>S4.1 African Camp Fires. The First Camp</itunes:title>
-      <description>The First Camp - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>The First Camp - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>The First Camp - from African Camp Fires.</itunes:summary>
       <itunes:duration>37:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.1</itunes:episode>
@@ -458,7 +194,7 @@
       <title>S4.2 African Camp Fires. Into the Wild</title>
       <itunes:title>S4.2 African Camp Fires. Into the Wild</itunes:title>
       <description>Into the Wild - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Into the Wild - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Into the Wild - from African Camp Fires.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.2</itunes:episode>
@@ -469,7 +205,7 @@
       <title>S4.3 African Camp Fires. Hunting the Plains</title>
       <itunes:title>S4.3 African Camp Fires. Hunting the Plains</itunes:title>
       <description>Hunting the Plains - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Hunting the Plains - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Hunting the Plains - from African Camp Fires.</itunes:summary>
       <itunes:duration>38:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.3</itunes:episode>
@@ -480,7 +216,7 @@
       <title>S4.4 African Camp Fires. Lion at Dawn</title>
       <itunes:title>S4.4 African Camp Fires. Lion at Dawn</itunes:title>
       <description>Lion at Dawn - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Lion at Dawn - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Lion at Dawn - from African Camp Fires.</itunes:summary>
       <itunes:duration>40:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.4</itunes:episode>
@@ -491,7 +227,7 @@
       <title>S4.5 African Camp Fires. The Big Game</title>
       <itunes:title>S4.5 African Camp Fires. The Big Game</itunes:title>
       <description>The Big Game - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>The Big Game - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>The Big Game - from African Camp Fires.</itunes:summary>
       <itunes:duration>41:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.5</itunes:episode>
@@ -502,7 +238,7 @@
       <title>S4.6 African Camp Fires. Waterhole Watch</title>
       <itunes:title>S4.6 African Camp Fires. Waterhole Watch</itunes:title>
       <description>Waterhole Watch - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Waterhole Watch - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Waterhole Watch - from African Camp Fires.</itunes:summary>
       <itunes:duration>39:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.6</itunes:episode>
@@ -513,7 +249,7 @@
       <title>S4.7 African Camp Fires. Safari by Night</title>
       <itunes:title>S4.7 African Camp Fires. Safari by Night</itunes:title>
       <description>Safari by Night - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Safari by Night - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Safari by Night - from African Camp Fires.</itunes:summary>
       <itunes:duration>33:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.7</itunes:episode>
@@ -524,7 +260,7 @@
       <title>S4.8 African Camp Fires. Distant Hills</title>
       <itunes:title>S4.8 African Camp Fires. Distant Hills</itunes:title>
       <description>Distant Hills - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Distant Hills - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Distant Hills - from African Camp Fires.</itunes:summary>
       <itunes:duration>30:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.8</itunes:episode>
@@ -535,7 +271,7 @@
       <title>S4.9 African Camp Fires. Campfire Stories</title>
       <itunes:title>S4.9 African Camp Fires. Campfire Stories</itunes:title>
       <description>Campfire Stories - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Campfire Stories - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Campfire Stories - from African Camp Fires.</itunes:summary>
       <itunes:duration>38:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.9</itunes:episode>
@@ -546,7 +282,7 @@
       <title>S4.10 African Camp Fires. Last Campfires</title>
       <itunes:title>S4.10 African Camp Fires. Last Campfires</itunes:title>
       <description>Last Campfires - from African Camp Fires, read by Jenny.</description>
-      <itunes:summary>Last Campfires - from African Camp Fires, read by Jenny.</itunes:summary>
+      <itunes:summary>Last Campfires - from African Camp Fires.</itunes:summary>
       <itunes:duration>40:00</itunes:duration>
       <itunes:season>4</itunes:season>
       <itunes:episode>4.10</itunes:episode>
@@ -557,106 +293,106 @@
       <title>S5.1 In Africa: Hunting Adventures. The Voyage</title>
       <itunes:title>S5.1 In Africa: Hunting Adventures. The Voyage</itunes:title>
       <description>The Voyage - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Voyage - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>The Voyage - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>37:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.1</itunes:episode>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E01_Hunting_Part_1_jenny.mp3" type="audio/mpeg" length="13674672"/>
     </item>
-<item>
+    <item>
       <title>S5.2 In Africa: Hunting Adventures. Games on Deck</title>
       <itunes:title>S5.2 In Africa: Hunting Adventures. Games on Deck</itunes:title>
       <description>Games on Deck - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Games on Deck - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>Games on Deck - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>36:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.2</itunes:episode>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E02_Hunting_Part_2_jenny.mp3" type="audio/mpeg" length="13316256"/>
     </item>
-<item>
+    <item>
       <title>S5.3 In Africa: Hunting Adventures. The Tsetse Fly</title>
       <itunes:title>S5.3 In Africa: Hunting Adventures. The Tsetse Fly</itunes:title>
       <description>The Tsetse Fly - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Tsetse Fly - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>The Tsetse Fly - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.3</itunes:episode>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E03_Hunting_Part_3_jenny.mp3" type="audio/mpeg" length="12878528"/>
     </item>
-<item>
+    <item>
       <title>S5.4 In Africa: Hunting Adventures. A Hunter's Lunch</title>
       <itunes:title>S5.4 In Africa: Hunting Adventures. A Hunter's Lunch</itunes:title>
       <description>A Hunter's Lunch - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>A Hunter's Lunch - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>A Hunter's Lunch - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.4</itunes:episode>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E04_Hunting_Part_4_jenny.mp3" type="audio/mpeg" length="12879456"/>
     </item>
-<item>
+    <item>
       <title>S5.5 In Africa: Hunting Adventures. Following Three Lions</title>
       <itunes:title>S5.5 In Africa: Hunting Adventures. Following Three Lions</itunes:title>
       <description>Following Three Lions - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Following Three Lions - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>Following Three Lions - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.5</itunes:episode>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E05_Hunting_Part_5_jenny.mp3" type="audio/mpeg" length="12785792"/>
     </item>
-<item>
+    <item>
       <title>S5.6 In Africa: Hunting Adventures. Cold at the Equator</title>
       <itunes:title>S5.6 In Africa: Hunting Adventures. Cold at the Equator</itunes:title>
       <description>Cold at the Equator - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Cold at the Equator - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>Cold at the Equator - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.6</itunes:episode>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E06_Hunting_Part_6_jenny.mp3" type="audio/mpeg" length="12793696"/>
     </item>
-<item>
+    <item>
       <title>S5.7 In Africa: Hunting Adventures. Whisky and Stories</title>
       <itunes:title>S5.7 In Africa: Hunting Adventures. Whisky and Stories</itunes:title>
       <description>Whisky and Stories - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Whisky and Stories - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>Whisky and Stories - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.7</itunes:episode>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E07_Hunting_Part_7_jenny.mp3" type="audio/mpeg" length="12817024"/>
     </item>
-<item>
+    <item>
       <title>S5.8 In Africa: Hunting Adventures. Following the Trail</title>
       <itunes:title>S5.8 In Africa: Hunting Adventures. Following the Trail</itunes:title>
       <description>Following the Trail - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>Following the Trail - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>Following the Trail - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>34:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.8</itunes:episode>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E08_Hunting_Part_8_jenny.mp3" type="audio/mpeg" length="12410816"/>
     </item>
-<item>
+    <item>
       <title>S5.9 In Africa: Hunting Adventures. The Good Bull</title>
       <itunes:title>S5.9 In Africa: Hunting Adventures. The Good Bull</itunes:title>
       <description>The Good Bull - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Good Bull - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>The Good Bull - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.9</itunes:episode>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pub-be12e0f10bed438db17fc28b4cad43dd.r2.dev/ebook-podcast/S5E09_Hunting_Part_9_jenny.mp3" type="audio/mpeg" length="12797664"/>
     </item>
-<item>
+    <item>
       <title>S5.10 In Africa: Hunting Adventures. The Little Dog</title>
       <itunes:title>S5.10 In Africa: Hunting Adventures. The Little Dog</itunes:title>
       <description>The Little Dog - from In Africa: Hunting Adventures, read by Jenny.</description>
-      <itunes:summary>The Little Dog - from In Africa: Hunting Adventures, read by Jenny.</itunes:summary>
+      <itunes:summary>The Little Dog - from In Africa: Hunting Adventures.</itunes:summary>
       <itunes:duration>35:00</itunes:duration>
       <itunes:season>5</itunes:season>
       <itunes:episode>5.10</itunes:episode>
